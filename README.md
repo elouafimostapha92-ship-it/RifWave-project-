@@ -1,3 +1,6 @@
+### 🎧 Audio Sample
+[Click here to listen to the RifWave Fusion Demo](./Rif%20Trap%20Caravan.mp3)
+
 # RifWave AI 🎸⚡
 
 **RifWave** is an innovative AI-powered mobile application designed to bridge the gap between traditional cultural heritage and modern music production.
