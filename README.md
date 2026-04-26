@@ -1,4 +1,4 @@
-
+​![RifWave App Interface](app-design.png)
 [▶️ اضغط هنا لسماع الموسيقى](https://raw.githubusercontent.com/elouafimostapha92-ship-it/RifWave-project-/main/Rif%20Trap%20Caravan.mp3)
 # RifWave AI 🎸⚡
 
