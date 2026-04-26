@@ -1,5 +1,5 @@
-​[▶️ استمع للعرض التجريبي من هنا](https://github.com/elouafimostapha92-ship-it/RifWave-project/raw/main/Rif%20Trap%20Caravan.mp3)
 
+[▶️ اضغط هنا لسماع الموسيقى](https://raw.githubusercontent.com/elouafimostapha92-ship-it/RifWave-project-/main/Rif%20Trap%20Caravan.mp3)
 # RifWave AI 🎸⚡
 
 **RifWave** is an innovative AI-powered mobile application designed to bridge the gap between traditional cultural heritage and modern music production.
