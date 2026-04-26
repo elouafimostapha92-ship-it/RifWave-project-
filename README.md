@@ -1,5 +1,4 @@
-### 🎧 Audio Sample
-[Click here to listen to the RifWave Fusion Demo](./Rif%20Trap%20Caravan.mp3)
+​[▶️ استمع للعرض التجريبي من هنا](https://github.com/elouafimostapha92-ship-it/RifWave-project/raw/main/Rif%20Trap%20Caravan.mp3)
 
 # RifWave AI 🎸⚡
 
